@@ -1,3 +1,57 @@
 menu{
     
 }
+
+#contenido{
+	display: flex;
+	border: 1px solid black;
+	width: 100%;
+	height: 400px;
+	grid-gap: 50px;
+	justify-content: center;
+}
+#contenido > div{
+	border: 1px solid black;
+	flex: auto;
+}
+#informacion{
+	display: flex;
+	border: 1px solid black;
+	width: 100%;
+	height: 155px;
+	column-gap: 5px;
+	flex-wrap: nowrap;
+}
+#caja1{
+	border: 1px solid black;
+	width: 25%;
+	height: 155px;
+}
+#caja2{
+	border: 1px solid black;
+	width: 25%;
+	height: 155px;
+}
+#caja3{
+	border: 1px solid black;
+	width: 25%;
+	height: 155px;
+}
+#caja4{
+	border: 1px solid black;
+	width: 25%;
+	height: 155px;
+}
+#footer{
+	display: flex;
+	border: 1px solid black;
+	width: 100%;
+	height: 155px;
+	flex-wrap: nowrap;
+}
+#iconos{
+	display: flex;
+	border: 1px solid black;
+	width: 50%;
+	height: 155px;
+}
