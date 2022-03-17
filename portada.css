@@ -146,7 +146,6 @@
 .facebook, .twitter, .instagram{width: 30px; height: 30px;}
 #fila1, #fila2, #fila3, #fila4, #fila5, #fila6, #fila7, #fila8, #fila9, #fila10, #fila11, #fila12{
 	display: block; 
-	border: 1px solid red; 
 	width: 270px; 
 	height: 100px;
 	margin-left: 25px;
